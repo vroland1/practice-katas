@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateEncode", "DuplicateEncode\DuplicateEncode.csproj", "{8FF49E95-470E-41EC-9A97-FFC800DB610D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateEncodeTest", "DuplicateEncodeTest\DuplicateEncodeTest.csproj", "{78B99245-49DA-48F5-AABD-811306C4BFC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF49E95-470E-41EC-9A97-FFC800DB610D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF49E95-470E-41EC-9A97-FFC800DB610D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF49E95-470E-41EC-9A97-FFC800DB610D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF49E95-470E-41EC-9A97-FFC800DB610D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B99245-49DA-48F5-AABD-811306C4BFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B99245-49DA-48F5-AABD-811306C4BFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B99245-49DA-48F5-AABD-811306C4BFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B99245-49DA-48F5-AABD-811306C4BFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {212A6E8D-FF8D-4ED4-8B9F-705B45E88A25}
+	EndGlobalSection
+EndGlobal

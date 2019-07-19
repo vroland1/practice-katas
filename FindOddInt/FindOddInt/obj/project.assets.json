@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victoriar\\source\\repos\\FindOddInt\\FindOddInt\\FindOddInt.csproj",
+      "projectUniqueName": "C:\\Users\\victoriar\\practice-katas\\FindOddInt\\FindOddInt\\FindOddInt.csproj",
       "projectName": "FindOddInt",
-      "projectPath": "C:\\Users\\victoriar\\source\\repos\\FindOddInt\\FindOddInt\\FindOddInt.csproj",
+      "projectPath": "C:\\Users\\victoriar\\practice-katas\\FindOddInt\\FindOddInt\\FindOddInt.csproj",
       "packagesPath": "C:\\Users\\victoriar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victoriar\\source\\repos\\FindOddInt\\FindOddInt\\obj\\",
+      "outputPath": "C:\\Users\\victoriar\\practice-katas\\FindOddInt\\FindOddInt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

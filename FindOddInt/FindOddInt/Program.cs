@@ -7,7 +7,7 @@ namespace FindOddInt
         static void Main(string[] args)
         {
             Kata kata = new Kata();
-            Console.WriteLine(kata.findIt(new int[] { 1, 21, 1, 45, 109, 21, 1, 109, 1, 45, 109 }));
+            Console.WriteLine(kata.FindIt(new int[] { 1, 21, 1, 45, 109, 21, 1, 109, 1, 45, 109 }));
             Console.ReadLine();
         }
     }

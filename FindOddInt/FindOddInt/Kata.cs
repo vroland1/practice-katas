@@ -6,7 +6,7 @@ namespace FindOddInt
 {
     public class Kata
     {
-        public int findIt(int[] seq)
+        public int FindIt(int[] seq)
         {
             int count = 0;
             int answer = 0;

@@ -1,0 +1,17 @@
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\DuplicateEncodeTest.deps.json
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\DuplicateEncodeTest.runtimeconfig.json
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\DuplicateEncodeTest.runtimeconfig.dev.json
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\DuplicateEncodeTest.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\DuplicateEncodeTest.pdb
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\DuplicateEncode.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\bin\Debug\netcoreapp2.2\DuplicateEncode.pdb
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\obj\Debug\netcoreapp2.2\DuplicateEncodeTest.csprojAssemblyReference.cache
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\obj\Debug\netcoreapp2.2\DuplicateEncodeTest.csproj.CoreCompileInputs.cache
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\obj\Debug\netcoreapp2.2\DuplicateEncodeTest.AssemblyInfoInputs.cache
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\obj\Debug\netcoreapp2.2\DuplicateEncodeTest.AssemblyInfo.cs
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\obj\Debug\netcoreapp2.2\DuplicateEncodeTest.csproj.CopyComplete
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\obj\Debug\netcoreapp2.2\DuplicateEncodeTest.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncodeTest\obj\Debug\netcoreapp2.2\DuplicateEncodeTest.pdb

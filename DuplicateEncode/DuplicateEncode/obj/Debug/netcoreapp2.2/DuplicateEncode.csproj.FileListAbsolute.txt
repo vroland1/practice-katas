@@ -1,0 +1,11 @@
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\bin\Debug\netcoreapp2.2\DuplicateEncode.deps.json
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\bin\Debug\netcoreapp2.2\DuplicateEncode.runtimeconfig.json
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\bin\Debug\netcoreapp2.2\DuplicateEncode.runtimeconfig.dev.json
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\bin\Debug\netcoreapp2.2\DuplicateEncode.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\bin\Debug\netcoreapp2.2\DuplicateEncode.pdb
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\obj\Debug\netcoreapp2.2\DuplicateEncode.csprojAssemblyReference.cache
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\obj\Debug\netcoreapp2.2\DuplicateEncode.csproj.CoreCompileInputs.cache
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\obj\Debug\netcoreapp2.2\DuplicateEncode.AssemblyInfoInputs.cache
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\obj\Debug\netcoreapp2.2\DuplicateEncode.AssemblyInfo.cs
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\obj\Debug\netcoreapp2.2\DuplicateEncode.dll
+C:\Users\victoriar\practice-katas\DuplicateEncode\DuplicateEncode\obj\Debug\netcoreapp2.2\DuplicateEncode.pdb
