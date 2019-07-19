@@ -1,0 +1,17 @@
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\FindOddIntTest.deps.json
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\FindOddIntTest.runtimeconfig.json
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\FindOddIntTest.runtimeconfig.dev.json
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\FindOddIntTest.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\FindOddIntTest.pdb
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\FindOddInt.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\bin\Debug\netcoreapp2.2\FindOddInt.pdb
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\obj\Debug\netcoreapp2.2\FindOddIntTest.csprojAssemblyReference.cache
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\obj\Debug\netcoreapp2.2\FindOddIntTest.csproj.CoreCompileInputs.cache
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\obj\Debug\netcoreapp2.2\FindOddIntTest.AssemblyInfoInputs.cache
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\obj\Debug\netcoreapp2.2\FindOddIntTest.AssemblyInfo.cs
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\obj\Debug\netcoreapp2.2\FindOddIntTest.csproj.CopyComplete
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\obj\Debug\netcoreapp2.2\FindOddIntTest.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddIntTest\obj\Debug\netcoreapp2.2\FindOddIntTest.pdb

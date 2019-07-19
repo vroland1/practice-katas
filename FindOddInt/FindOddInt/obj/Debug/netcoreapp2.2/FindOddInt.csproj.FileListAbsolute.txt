@@ -1,0 +1,11 @@
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\bin\Debug\netcoreapp2.2\FindOddInt.deps.json
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\bin\Debug\netcoreapp2.2\FindOddInt.runtimeconfig.json
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\bin\Debug\netcoreapp2.2\FindOddInt.runtimeconfig.dev.json
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\bin\Debug\netcoreapp2.2\FindOddInt.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\bin\Debug\netcoreapp2.2\FindOddInt.pdb
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\obj\Debug\netcoreapp2.2\FindOddInt.csprojAssemblyReference.cache
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\obj\Debug\netcoreapp2.2\FindOddInt.csproj.CoreCompileInputs.cache
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\obj\Debug\netcoreapp2.2\FindOddInt.AssemblyInfoInputs.cache
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\obj\Debug\netcoreapp2.2\FindOddInt.AssemblyInfo.cs
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\obj\Debug\netcoreapp2.2\FindOddInt.dll
+C:\Users\victoriar\source\repos\FindOddInt\FindOddInt\obj\Debug\netcoreapp2.2\FindOddInt.pdb
