@@ -1,0 +1,11 @@
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp2.2\MoveZeroes.deps.json
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp2.2\MoveZeroes.runtimeconfig.json
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp2.2\MoveZeroes.runtimeconfig.dev.json
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp2.2\MoveZeroes.dll
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\bin\Debug\netcoreapp2.2\MoveZeroes.pdb
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp2.2\MoveZeroes.csprojAssemblyReference.cache
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp2.2\MoveZeroes.csproj.CoreCompileInputs.cache
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp2.2\MoveZeroes.AssemblyInfoInputs.cache
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp2.2\MoveZeroes.AssemblyInfo.cs
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp2.2\MoveZeroes.dll
+C:\Users\victoriar\practice-katas\MoveZeroes\MoveZeroes\obj\Debug\netcoreapp2.2\MoveZeroes.pdb
