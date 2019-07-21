@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{0AA7388A-604F-47C9-9CB1-946733C0FD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroesTest", "MoveZeroesTest\MoveZeroesTest.csproj", "{DB4C7B6E-50CB-4190-9A49-AFFDEB6885CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA7388A-604F-47C9-9CB1-946733C0FD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA7388A-604F-47C9-9CB1-946733C0FD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA7388A-604F-47C9-9CB1-946733C0FD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA7388A-604F-47C9-9CB1-946733C0FD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4C7B6E-50CB-4190-9A49-AFFDEB6885CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4C7B6E-50CB-4190-9A49-AFFDEB6885CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4C7B6E-50CB-4190-9A49-AFFDEB6885CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4C7B6E-50CB-4190-9A49-AFFDEB6885CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5016935-455B-4254-8F1C-2AAB787A78D5}
+	EndGlobalSection
+EndGlobal
