@@ -5841,11 +5841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncodeTest\\DuplicateEncodeTest.csproj",
+      "projectUniqueName": "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncodeTest\\DuplicateEncodeTest.csproj",
       "projectName": "DuplicateEncodeTest",
-      "projectPath": "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncodeTest\\DuplicateEncodeTest.csproj",
+      "projectPath": "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncodeTest\\DuplicateEncodeTest.csproj",
       "packagesPath": "C:\\Users\\victoriar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncodeTest\\obj\\",
+      "outputPath": "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncodeTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5864,8 +5864,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj": {
-              "projectPath": "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj"
+            "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj": {
+              "projectPath": "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj"
             }
           }
         }

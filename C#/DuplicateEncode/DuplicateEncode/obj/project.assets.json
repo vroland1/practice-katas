@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj",
+      "projectUniqueName": "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj",
       "projectName": "DuplicateEncode",
-      "projectPath": "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj",
+      "projectPath": "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncode\\DuplicateEncode.csproj",
       "packagesPath": "C:\\Users\\victoriar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victoriar\\practice-katas\\DuplicateEncode\\DuplicateEncode\\obj\\",
+      "outputPath": "C:\\Users\\victoriar\\practice-katas\\C#\\DuplicateEncode\\DuplicateEncode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
