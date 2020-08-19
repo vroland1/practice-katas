@@ -686,24 +686,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\victoriar\\.nuget\\packages\\": {},
+    "C:\\Users\\vroland\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victoriar\\practice-katas\\C#\\MoveZeroes\\MoveZeroes\\MoveZeroes.csproj",
+      "projectUniqueName": "C:\\Users\\vroland\\practice-katas\\C#\\MoveZeroes\\MoveZeroes\\MoveZeroes.csproj",
       "projectName": "MoveZeroes",
-      "projectPath": "C:\\Users\\victoriar\\practice-katas\\C#\\MoveZeroes\\MoveZeroes\\MoveZeroes.csproj",
-      "packagesPath": "C:\\Users\\victoriar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victoriar\\practice-katas\\C#\\MoveZeroes\\MoveZeroes\\obj\\",
+      "projectPath": "C:\\Users\\vroland\\practice-katas\\C#\\MoveZeroes\\MoveZeroes\\MoveZeroes.csproj",
+      "packagesPath": "C:\\Users\\vroland\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vroland\\practice-katas\\C#\\MoveZeroes\\MoveZeroes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\victoriar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\vroland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -734,10 +737,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnoughIsEnough", "EnoughIsEnough\EnoughIsEnough.csproj", "{1E70A949-E417-49AB-8B5A-18DF9975DC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnoughIsEnoughTest", "EnoughIsEnoughTest\EnoughIsEnoughTest.csproj", "{79D00C58-0708-47A1-8B96-CD781C7372BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E70A949-E417-49AB-8B5A-18DF9975DC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E70A949-E417-49AB-8B5A-18DF9975DC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E70A949-E417-49AB-8B5A-18DF9975DC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E70A949-E417-49AB-8B5A-18DF9975DC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D00C58-0708-47A1-8B96-CD781C7372BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D00C58-0708-47A1-8B96-CD781C7372BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D00C58-0708-47A1-8B96-CD781C7372BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D00C58-0708-47A1-8B96-CD781C7372BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E21A2FF-986B-4375-8DBD-4ADE9D7CAC84}
+	EndGlobalSection
+EndGlobal
